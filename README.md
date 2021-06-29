@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JacobStocklass
+- 👀 I’m interested in lots of things
+- 🌱 I’m currently learning the BigQuery Storage Java Library
