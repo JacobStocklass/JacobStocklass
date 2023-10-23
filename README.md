@@ -1,3 +1,5 @@
 - 👋 Hi, I’m @JacobStocklass
 - 👀 I’m interested in lots of things
-- 🌱 I’m currently learning the BigQuery Storage Java Library
+- 🌱 I worked at Google for a while on the BigQuery Storage Java Library
+- Then I worked on internal cloud performance metrics
+- Right now I'm learning cybersecurity through Coursera
